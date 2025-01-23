@@ -1,0 +1,7 @@
+def print_hello() -> None:
+    """Outputs hello"""
+    print("Hello")
+
+
+def tea_bags (people: int) -> int
+""""""
